@@ -1,0 +1,7 @@
+.converter{
+    padding: 20px;
+    max-width: 300px;
+    height: 100px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.589);
+    background-color: rgba(135, 34, 182, 0.507);
+}
